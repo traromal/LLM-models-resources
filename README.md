@@ -1,5 +1,5 @@
 # LLM-models-resources
-## model links
+**## model links**
 ### llama-GPTQ
 https://huggingface.co/TheBloke/Llama-2-7B-Chat-GPTQ
 
