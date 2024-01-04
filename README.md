@@ -5,3 +5,5 @@ model links
 https://huggingface.co/TheBloke/Llama-2-7B-Chat-GPTQ
 
 ## Falcon Instruct GPTQ
+
+## WizardLM-7B-uncensored-GPTQ
